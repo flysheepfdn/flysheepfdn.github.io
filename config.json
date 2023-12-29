@@ -1,10 +1,16 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
-    "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"https://blog.meekdai.com",
-    "avatarUrl":"https://meekdai.com/avatar.svg",
-    "faviconUrl":"https://meekdai.com/favicon.svg",
-    "singlePage":[],
+    "title":"FMoran",
+    "displayTitle":"FMoran",
+    "subTitle":"👀 Everything should be blurry.",
+    "homeUrl":"https://fmoran.me",
+    "avatarUrl":"https://imgloc.com/image/l1LaV",
+    "faviconUrl":"https://imgloc.com/image/l1LaV",
+    "singlePage":["link","about"],
+    "email":"i@fmoran.me",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
     "GMEEK_VERSION":"last"
 }
