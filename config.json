@@ -13,5 +13,5 @@
     "i18n":"CN",
     "nightTheme":"dark_colorblind",
     "GMEEK_VERSION":"last"
-    "script":"<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "cdfb8160dcb246e89299cc5cf9eda886"}'></script>",
+    "script":"<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{'token': "cdfb8160dcb246e89299cc5cf9eda886"}'></script>",
 }
