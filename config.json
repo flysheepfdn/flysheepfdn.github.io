@@ -12,6 +12,6 @@
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "nightTheme":"dark_colorblind",
-    "script":"<script async src='https://www.googletagmanager.com/gtag/js?id=G-66HJ1QDGGD'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-66HJ1QDGGD');</script>",
     "GMEEK_VERSION":"last"
+    "script":"<script async src='https://www.googletagmanager.com/gtag/js?id=G-66HJ1QDGGD'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-66HJ1QDGGD');</script>",
 }
